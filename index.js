@@ -32,7 +32,7 @@ bot.on("message", msg => {
             {
               text: "Перейти в приложение",
               web_app: {
-                url: "https://tvoyauborka.ru/",
+                url: "https://tg-bot-omega-lovat.vercel.app/",
                 // url: "http://86.110.212.169/",
                 hide: true,
               },
