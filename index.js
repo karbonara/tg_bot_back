@@ -32,7 +32,7 @@ bot.on("message", msg => {
             {
               text: "Перейти в приложение",
               web_app: {
-                url: "https://magazine-dun.vercel.app/",
+                url: "https://ludivpluse.ru/#/",
                 hide: true,
               },
             },
