@@ -32,7 +32,7 @@ bot.on("message", msg => {
             {
               text: "Перейти в приложение",
               web_app: {
-                url: "https://tg-bot-omega-lovat.vercel.app/",
+                url: "https://magazine-dun.vercel.app/",
                 hide: true,
               },
             },
